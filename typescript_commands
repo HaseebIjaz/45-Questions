@@ -1,0 +1,4 @@
+git init
+tsc -init
+tsc
+node index.js
