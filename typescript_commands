@@ -1,4 +1,6 @@
+npm install -g typescript
 git init
+tsc --version
 tsc -init
 tsc
 node index.js
